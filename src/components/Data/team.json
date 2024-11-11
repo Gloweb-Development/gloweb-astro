@@ -1,60 +1,50 @@
 {
-    "team":
-    [
-        {
-            "title": "CEO and Founder",
-            "name": "John Smith",
-            "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
-            "profile": "/team/c1.png",
-            "link": "/"
-        },
-        {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
-            "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
-            "profile": "/team/c2.png",
-            "link": "/"
-        },
-        {
-            "title": "Senior SEO Specialist",
-            "name": "Michael Brown",
-            "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
-            "profile": "/team/c3.png",
-            "link": "/"
-        }
-
-    ],
-    "process":
-    [
-        {
-            "index": 1,
-            "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 2,
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 3,
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 4,
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 5,
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 6,
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        }
-    ]
+  "team": [
+    {
+      "title": "CEO and Founder",
+      "name": "George Petre",
+      "description": "10+ years of experience in Web Development with expertise in SEO, project management, and content strategy.",
+      "profile": "/team/c1.png",
+      "link": "https://www.linkedin.com/in/george-petre-80910a159/"
+    },
+    {
+      "title": "Web Designer and Co-Founder",
+      "name": "Alexandra Petre",
+      "description": "7+ years of experience in UI/UX design with expertise in brand identity, visual storytelling, and intuitive design.",
+      "profile": "/team/c2.png",
+      "link": "https://www.linkedin.com/in/alexandra-chiha-50a5a219a/"
+    }
+  ],
+  "process": [
+    {
+      "index": 1,
+      "label": "Planning and Research",
+      "content": "Establish clear goals, identify the target audience, and create a comprehensive sitemap and content strategy based on competitor analysis and industry trends."
+    },
+    {
+      "index": 2,
+      "label": "Design and UX Creation",
+      "content": "Develop wireframes and prototypes to map user journeys, design visually appealing elements aligned with the brand, and gather user feedback to refine the overall user experience."
+    },
+    {
+      "index": 3,
+      "label": "Development",
+      "content": " Choose the appropriate technology stack, implement both frontend and backend development, ensuring a seamless, responsive design that performs well across various devices and browsers."
+    },
+    {
+      "index": 4,
+      "label": "Content Creation and Integration",
+      "content": "Develop high-quality, engaging content tailored to your audience, integrate multimedia elements (images, videos, etc.), and ensure that the content is aligned with SEO best practices to enhance visibility and user engagement."
+    },
+    {
+      "index": 5,
+      "label": "Launch and Maintenance",
+      "content": " Launch the website, monitor user interactions and performance metrics, provide regular content updates, ensure security, and address bugs promptly to maintain a smooth user experience."
+    },
+    {
+      "index": 6,
+      "label": "Marketing and Optimization",
+      "content": "Implement a targeted marketing strategy through SEO, PPC campaigns, and social media outreach, using analytics to continuously optimize the website for better engagement and conversion rates"
+    }
+  ]
 }
