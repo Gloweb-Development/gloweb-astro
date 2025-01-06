@@ -2,32 +2,12 @@
 import Container from "./Container.astro"
 import Topic from "./Topic.astro";
 import teamData from './Data/team.json';
-import Accordion from "./Accordion.astro";
 
 ---
 <Container>
-<div class="relative flex flex-col items-center md:flex-row">
-    <Topic title="Process" description="Step-by-Step guide to achieving your business goals"/>
-</div>
-
-<div class="my-6">
-    <div class="space-y-10">
-        {
-            teamData.process.map((item) => {
-                return (
-                <Accordion
-                    index= {item.index}
-                    title={item.label}
-                    description={item.content}
-                />
-                );
-            })
-        }
-    </div>
-</div>
 
 <div class="relative flex flex-col items-center md:flex-row pt-6">
-    <Topic title="Team" description="Meet the skilled and experienced team behind our successful digital marketing strategies"/>
+    <Topic title="Team" description="Meet the skilled and experienced team behind our successful digital  strategies"/>
 </div>
 
 <div class="flex-row items-center py-5" id="team">
